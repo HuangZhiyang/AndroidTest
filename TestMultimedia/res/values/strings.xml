@@ -4,5 +4,10 @@
     <string name="app_name">TestMultimedia</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="media_play">播放</string>
+    <string name="media_stop">停止</string>
+    <string name="meida_pause">暂停</string>
+    <string name="media_prev">前进</string>
+    <string name="media_back">后退</string>
 
 </resources>
